@@ -1,0 +1,32 @@
+.deneme{
+
+text-align: right;
+
+}
+
+div{
+
+    background-color: aquamarine;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;   /*margin en distan mesafeler*/
+    margin-right: 100px;
+}
+
+#form1{
+    text-align: center;
+
+}
+
+.button{
+    width: 200px;
+    height:80px;
+    font-size:24px;
+    background-color: coral;
+}
+.button:hover{
+    background-color: cadetblue;
+
+}
